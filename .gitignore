@@ -1,0 +1,6 @@
+.env
+__pycache__/
+Project3_Guide.md
+RedTeam_Report.docx
+result.json
+attack_log.txt
